@@ -14,15 +14,49 @@ M.S. at National Taiwan University · B.S. in Mechanical Engineering at National
 
 ## Projects
 
-| Area | Repo | What it is |
-|---|---|---|
-| Instrument control | [piezo-motor-visual-servo](https://github.com/floraliu-dev/piezo-motor-visual-servo) | 120 FPS camera-in-the-loop PID control of a piezoelectric ultrasonic motor |
-| | [Keysight-33600A-SCPI-programming](https://github.com/floraliu-dev/Keysight-33600A-SCPI-programming) | Mode switching in under 5 ms over SCPI, plus Teensy firmware |
-| | [AD9106_SRAM-function](https://github.com/floraliu-dev/AD9106_SRAM-function) | Teensy 4.1 port of the ADI AD9106 SRAM driver |
-| Reliability | [Test2Fail-Toolkit](https://github.com/floraliu-dev/Test2Fail-Toolkit) | Test-to-failure data in, Weibull, B10/MTTF and a PDF report out |
-| Test data systems | [outdoor-weathering-monitor](https://github.com/floraliu-dev/outdoor-weathering-monitor) | Weather logger data to MySQL, with automated reports |
-| Coursework | [deep-learning-coursework](https://github.com/floraliu-dev/deep-learning-coursework) | PyTorch: flow regression, CNN, style transfer, PINN |
-| | [College_Portfolio](https://github.com/floraliu-dev/College_Portfolio) | NCKU mechanical engineering projects and internship |
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+<a href="https://floraliu.dev/work/piezo-motor"><img src="https://raw.githubusercontent.com/floraliu-dev/piezo-motor-visual-servo/main/docs/with-control.gif" height="200" alt="Piezo motor visual servo demo"></a><br>
+<b><a href="https://github.com/floraliu-dev/piezo-motor-visual-servo">Piezo motor visual servo</a></b><br>
+<sub>120 FPS camera-in-the-loop PID control of a piezoelectric ultrasonic motor (M.S. thesis)</sub>
+</td>
+<td align="center" width="50%" valign="top">
+<a href="https://floraliu.dev/work/test2fail"><img src="https://raw.githubusercontent.com/floraliu-dev/Test2Fail-Toolkit/main/docs/workflow.gif" height="200" alt="Test2Fail Toolkit demo"></a><br>
+<b><a href="https://github.com/floraliu-dev/Test2Fail-Toolkit">Test2Fail Toolkit</a></b><br>
+<sub>Test-to-failure data in; Weibull, B10/MTTF and a PDF report out</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+<a href="https://floraliu.dev/work/outdoor-weathering"><img src="https://raw.githubusercontent.com/floraliu-dev/outdoor-weathering-monitor/main/docs/dashboard-demo.gif" height="200" alt="Outdoor weathering monitor demo"></a><br>
+<b><a href="https://github.com/floraliu-dev/outdoor-weathering-monitor">Outdoor weathering monitor</a></b><br>
+<sub>Weather logger data to MySQL, feeding an Excel dashboard with eight linked charts</sub>
+</td>
+<td align="center" width="50%" valign="top">
+<a href="https://github.com/floraliu-dev/deep-learning-coursework"><img src="https://raw.githubusercontent.com/floraliu-dev/deep-learning-coursework/main/docs/style-transfer.gif" height="200" alt="Deep learning coursework demo"></a><br>
+<b><a href="https://github.com/floraliu-dev/deep-learning-coursework">Deep learning coursework</a></b><br>
+<sub>PyTorch: flow regression, CNN, neural style transfer, PINN</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+<a href="https://github.com/floraliu-dev/College_Portfolio"><img src="https://raw.githubusercontent.com/floraliu-dev/College_Portfolio/main/docs/robot-handoff.gif" height="200" alt="College portfolio demo"></a><br>
+<b><a href="https://github.com/floraliu-dev/College_Portfolio">College portfolio</a></b><br>
+<sub>NCKU mechanical engineering projects and the SGS internship</sub>
+</td>
+<td align="left" width="50%" valign="top">
+
+**Also in instrument control**
+
+- [Keysight-33600A-SCPI-programming](https://github.com/floraliu-dev/Keysight-33600A-SCPI-programming): mode switching in under 5 ms over SCPI, plus Teensy firmware
+- [AD9106_SRAM-function](https://github.com/floraliu-dev/AD9106_SRAM-function): Teensy 4.1 port of the ADI AD9106 SRAM driver
+
+Write-ups for each project live on [floraliu.dev](https://floraliu.dev/about#work).
+
+</td>
+</tr>
+</table>
 
 </details>
 
